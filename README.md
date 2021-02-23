@@ -1,6 +1,8 @@
 # Hello-User-in-Python
 
-This is my first assignment for my Introduction to Programming in Python course. 
+This is my first assignment for my Introduction to Programming in Python course.
+
+Skills: running a Python program in an IDE, working with variables, using the "print" and "input" functions, and string concatenation
 
 Part 1 (hello.py) - Hello User: The program prompts the user for their name, reads in their input, and prints a hello statement.
 
