@@ -1,4 +1,4 @@
-# Part 2 of week 1 assignment
+# Module 1 Assignment - Part 2
 
 print("Enter the date the first assignment is due below:")
 day = input("Day (enter 2-digit value): ")
